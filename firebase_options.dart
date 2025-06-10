@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDWRYPTSMdT1ilxU_KtzTHmisqlJpuyiDk',
+    apiKey: '',
     appId: '1:97019197959:web:ab0124c789d5fd1db7c8a2',
     messagingSenderId: '97019197959',
     projectId: 'smart-pantry-e8355',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCFsAtYtQmFUsds638osiUHsFv4tn5ZAnA',
+    apiKey: '',
     appId: '1:97019197959:android:93a7399abd0a7130b7c8a2',
     messagingSenderId: '97019197959',
     projectId: 'smart-pantry-e8355',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDpH4FA8sf6mT3tX9V7-DTcG-Ww4ABSvMY',
+    apiKey: '',
     appId: '1:97019197959:ios:4d840656494d48f8b7c8a2',
     messagingSenderId: '97019197959',
     projectId: 'smart-pantry-e8355',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDpH4FA8sf6mT3tX9V7-DTcG-Ww4ABSvMY',
+    apiKey: '',
     appId: '1:97019197959:ios:4d840656494d48f8b7c8a2',
     messagingSenderId: '97019197959',
     projectId: 'smart-pantry-e8355',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDWRYPTSMdT1ilxU_KtzTHmisqlJpuyiDk',
+    apiKey: '',
     appId: '1:97019197959:web:1ea9fbe2a211db07b7c8a2',
     messagingSenderId: '97019197959',
     projectId: 'smart-pantry-e8355',
